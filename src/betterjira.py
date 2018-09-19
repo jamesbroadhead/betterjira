@@ -1,0 +1,3 @@
+
+class BetterJira(object):
+    pass
